@@ -9,8 +9,11 @@
 </style>
 </head>
 <body>
-
-<h1>Hello from demo app</h1>
+    <h1>
+<?php
+echo ("Hello from demo app 1")
+?>
+</h1>
 
 </body>
 </html>
